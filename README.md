@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning aprendendo a programar
+- 🌱 I’m currently learning aprendendo a programar no alura
 - 👯 I’m looking to collaborate on equipe
 
